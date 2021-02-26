@@ -6,6 +6,13 @@
     font-weight: 400;
     font-size: x-large;
 }
+.my-container {
+    padding: 100px;
+    border-radius: 5px;
+    border-width: thick;
+    border-style: solid;
+	color: cadetblue
+}
 .my-paragraph {
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #CDD9DA;
